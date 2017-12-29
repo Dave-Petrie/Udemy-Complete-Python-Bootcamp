@@ -1,0 +1,3 @@
+%%writefile new.txt
+First line
+Second line

@@ -47,11 +47,11 @@ l_1_sort = l_1.sort()
 l_2_reverse = l_2.reverse()
 matrix = [l_1, l_2, l_3]
 
+print(l_1, l_2, l_3, l_1_sort, l_2_reverse, matrix)
 
-
-
-
-
+# Extract parts of a matrix (group of lists)
+print(matrix[1][2])
+print(matrix[2][1])
 
 
 
