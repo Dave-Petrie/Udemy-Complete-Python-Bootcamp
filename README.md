@@ -1,9 +1,11 @@
-Udemy-Complete-Python-Bootcamp
+# Complete Python Bootcamp: Go from Zero to Hero with Python
 
+## Python Udemy Course
 
-This folder has been established to be a code-base for the training and projects I will build through Udemy's:
+### Description
 
-Complete Python Bootcamp: Go from zero to hero with python
+This repository has been established as a record, backup and reference for my efforts completing the training and projects I will build through this Udemy course.
 
 Project started:        17.12.29
-Expected completion:    18.04.01
+
+Targeted completion:    18.04.01
