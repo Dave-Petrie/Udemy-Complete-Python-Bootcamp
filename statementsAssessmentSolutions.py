@@ -47,6 +47,7 @@ for num in list(range(1,101)):
 st = 'Create a list of the first letters of every word in this string'
 print( [word[0] for word in st.split()] )
 
+
 # DO NOT REMOVE
 
 print("**************************** \n End of script \n ****************************")
